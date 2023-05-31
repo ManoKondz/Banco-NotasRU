@@ -44,7 +44,7 @@ decorar()
 # CREDITOS
 string = '''            CREDITOS...
         CRIADOR DO CODIGO: ANDRÉ
-        DECORADOR: ADNDRÉ
+        DECORADOR: ANDRÉ
         FAZEDOR DO CODIGO: ANDRÉ
         CREDITOS DA MUSICA: ANDRÉ
         DONO DO PYTHON: ANDRÉ
